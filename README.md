@@ -21,3 +21,15 @@ Lab-Scaled-Open-Source-Hardware
 This repository contains two main sub-directories. The 3D_Model_Files directory contains Autodesk Inventor part (.ipt) files of the various model components. The "Full Bridge.iam" file is the assembly file of the entire down scale model. Additionally, the Vehicle_Model sub-directory contains the "Full Car.iam" file for the vehicle down-scale model.
 
 The Data_Processing sub-directory contains the Jupyter Notebook file that runs the data preprocessing implementation written in the paper. Within this directory, Sample_Data contains some sample data collected from the testbed.
+
+## Citations
+
+```
+@inproceedings{Yin2023Open,
+  title={Open-Source Hardware and Software for a Laboratory-Scale Track and Moving Vehicle Actuation System Used for Indirect Broken Rail Detection},
+  author={Yin, Jeremy and Montero, Guillermo and Flanigan, Katherine A. and Berg{\'e}s, Mario and Brooks, James D.},
+  booktitle={Proc. SPIE 12486, Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2023},
+  year={2023},
+  organization={SPIE}
+}
+```
